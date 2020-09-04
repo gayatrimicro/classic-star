@@ -74,6 +74,7 @@
         font-size: 38px;
         font-weight: 700;
         margin-bottom: 5px;
+        color: #000;
     }
     #form_contact{
       margin-top: 20px;
@@ -100,13 +101,14 @@
     }
     .Btn_send{
       margin-top: 25px;
-        border: none;
-        background-color: #0072bb;
-        color: #fff;
-        outline: none;
-        padding: 12px 25px;
-        font-size: 17px;
-        letter-spacing: 1px;
+      border: none;
+      background-color: #0072bb;
+      color: #fff;
+      outline: none;
+      padding: 12px 25px;
+      font-size: 16px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
     }
     .heigt{
       padding: 40px 50px;
@@ -118,7 +120,11 @@
     .inner_part h5 i{
       margin-left: 10px;
     }
+    .inner_part h5 a:hover{
+      color: #0072bb;
+    }
   </style>
+  <link href="assets/css/media.css" rel="stylesheet">
 </head>
 
 <body>
@@ -191,13 +197,12 @@
     </section><!-- End Breadcrumbs Section -->
 
     <section class="Banner_Site">
-    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.024647909002!2d55.30218221501108!3d25.2697562838625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDE2JzExLjEiTiA1NcKwMTgnMTUuNyJF!5e0!3m2!1sen!2sin!4v1599204584529!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> -->
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d601.7983518241996!2d55.30422368864629!3d25.269657218121825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDE2JzExLjEiTiA1NcKwMTgnMTUuNyJF!5e0!3m2!1sen!2sin!4v1599204968989!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d601.7983518241996!2d55.30422368864629!3d25.269657218121825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDE2JzExLjEiTiA1NcKwMTgnMTUuNyJF!5e0!3m2!1sen!2sin!4v1599204968989!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" id="ifr"></iframe>
   </section>
   <section class="Form_part">
     <div class="container">
       <div class="row">       
-        <div class="col-sm-6">
+        <div class="col-sm-6 pad360">
           <div class="inner_part">
             <span class="Small_label Clr_lbl">CONTACT</span>
             <h3>Have a question?</h3>
@@ -227,7 +232,7 @@
             </form>
           </div>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-6 pad360">
           <div class="inner_part Back_lft heigt">
             <h4>Location</h4>
             <span class="Small_label">Classic Star Building Materials LLC</span>
