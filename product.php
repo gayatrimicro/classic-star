@@ -131,7 +131,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="Anchors" class="link-preview"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -145,7 +145,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/web3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Bolts"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -159,7 +159,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/app2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 2"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/app2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Socket & Set Screws"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -173,7 +173,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/card2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/card2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Hook & Eye Bolts"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -187,7 +187,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 2"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/web2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Pins"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -201,7 +201,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/app3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 3"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/app3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Rivets"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -215,7 +215,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/card1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 1"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/card1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Screws"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -229,7 +229,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/card3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 3"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/card3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Studs"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -243,7 +243,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Self-Drilling Screws"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -257,7 +257,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Self-Tapping Screws"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -271,7 +271,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Quard Steel Plates"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -285,7 +285,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Nails"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -299,7 +299,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Nuts"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -313,7 +313,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Threaded Rods"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -327,7 +327,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Wall Plugs"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
@@ -341,7 +341,7 @@
           <div class="portfolio-wrap">
             <figure>
               <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
+              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Washers"><i class="ion ion-eye"></i></a>
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
