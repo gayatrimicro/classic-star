@@ -253,7 +253,7 @@
             <p class="description">Dubai is the business hub of the Western Asia and one of the world's fastest growing economies in the world. </p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
+            <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
             <h4 class="title">Over 10,000 types of Fasteners</h4>
             <p class="description">Our products consist of thousands of different types of industrial fasteners which include - Anchor bolts, Stud bolts.</p>
           </div>
@@ -271,7 +271,7 @@
           </div>
           
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300" style="margin-top: 2rem;">
-            <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
+            <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
             <h4 class="title">Genuine products</h4>
             <p class="description">Classic Star Building Materials LLC. is a name associated with genuine products which are high quality, durable, and in accordance with industry standards.</p>
           </div>
@@ -397,7 +397,7 @@
             <figure>
               <img src="assets/img/products/anchor.jpg" class="img-fluid" alt="">
               <!-- <a href="assets/img/products/anchor.jpg" data-lightbox="portfolio" data-title="Anchors" class="link-preview"><i class="ion ion-eye"></i></a> -->
-              <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              <!-- <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a> -->
             </figure>
 
             <div class="portfolio-info">
@@ -411,7 +411,7 @@
             <figure>
               <img src="assets/img/products/bolt.jpg" class="img-fluid" alt="">
               <!-- <a href="assets/img/portfolio/web3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Bolts"><i class="ion ion-eye"></i></a> -->
-              <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              <!-- <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a> -->
             </figure>
 
             <div class="portfolio-info">
@@ -425,7 +425,7 @@
             <figure>
               <img src="assets/img/products/socket-screw.jpg" class="img-fluid" alt="">
               <!-- <a href="assets/img/portfolio/app2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Socket & Set Screws"><i class="ion ion-eye"></i></a> -->
-              <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
+              <!-- <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a> -->
             </figure>
 
             <div class="portfolio-info">
@@ -433,12 +433,17 @@
             </div>
           </div>
         </div>
+        
 
       
 
 
       </div>
-
+      <div class="row">
+        <div class="col-lg-12 col-md-12">
+          <a class="cta-btn" href="product.php">View More</a>
+        </div>
+      </div>
       </div>
     </section><!-- End Portfolio Section -->
 
@@ -451,9 +456,9 @@
         </header>
 
         <div class="owl-carousel clients-carousel">
-          <img src="assets/img/clients/client-1.png" alt="">
+          <!-- <img src="assets/img/clients/client-1.png" alt="">
           <img src="assets/img/clients/client-2.png" alt="">
-          <img src="assets/img/clients/client-3.png" alt="">
+          <img src="assets/img/clients/client-3.png" alt=""> -->
           <img src="assets/img/clients/client-4.png" alt="">
           <img src="assets/img/clients/client-5.png" alt="">
           <img src="assets/img/clients/client-6.png" alt="">
@@ -699,23 +704,13 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-info">
-            <!-- <img src="assets/img/classic-star.png" style="width:100%;"> -->
-            <!-- <h3>Classic Star Building Materials LLC</h3> -->
+          <!-- <div class="col-lg-3 col-md-6 footer-info">
             <p>Classic Star Building Materials LLC, is your trusted partner for all your fasteners requirements. Located in Deira Dubai hardware & tools market, Classic Star is known for its quality and availability of extensive range of Stainless-Steel fasteners. We carry 100% authentic grade materials such as 304, 316, and other carbon and alloy steel fasteners.</p>
-          </div>
+          </div> -->
 
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Products</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Contact us</a></li>
-            </ul>
-          </div>
+          
 
-          <div class="col-lg-3 col-md-6 footer-contact">
+          <div class="col-lg-6 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
               Shop No. 06, Waqf building,<br> 
@@ -728,22 +723,34 @@
             </p>
 
             <div class="social-links">
-              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+              <!-- <a href="#" class="twitter"><i class="fa fa-twitter"></i></a> -->
               <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <!-- <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a> -->
               <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
             </div>
 
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
+          <div class="col-lg-6 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Products</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Contact us</a></li>
+            </ul>
+          </div>
+
+          <!-- <div class="col-lg-3 col-md-6 footer-links"></div> -->
+
+          <!-- <div class="col-lg-3 col-md-6 footer-newsletter">
+            <h4>Social Media</h4>
             <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
-          </div>
+          </div> -->
 
         </div>
       </div>

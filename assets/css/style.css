@@ -826,7 +826,7 @@ section {
   color: #fff;
 }
 
-#call-to-action .cta-btn {
+#call-to-action .cta-btn  {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
@@ -840,10 +840,25 @@ section {
   border: 2px solid #fff;
   color: #fff;
 }
+#portfolio .cta-btn{
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: block;
+  padding: 8px 28px;
+  border-radius: 25px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 2px solid #000;
+  color: #fff;;margin: 0 auto;width: 200px;color: #000;text-align: center;"
+}
 
-#call-to-action .cta-btn:hover {
+#call-to-action .cta-btn:hover, #portfolio .cta-btn:hover {
   background: #0072bb;
   border: 2px solid #0072bb;
+  color: #fff;
 }
 
 /* Call To Action Section
