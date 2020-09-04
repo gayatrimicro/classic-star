@@ -21,7 +21,16 @@
   <!-- Template Main CSS File -->
 
   <link href="assets/css/style.css" rel="stylesheet">
-
+<style type="text/css">
+  #portfolio .portfolio-item .portfolio-info {
+    padding: 36px;
+    height: 73px;
+}
+#portfolio .portfolio-item .portfolio-info h4 {
+    line-height: 0px;
+    margin-bottom: 0;
+}
+</style>
 
   
 </head>
@@ -103,8 +112,9 @@
         <header class="section-header">
           <h3 class="section-title">Our Products</h3>
         </header>
+        <br><br>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
+        <!-- <div class="row" data-aos="fade-up" data-aos-delay="100">
       <div class=" col-lg-12">
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
@@ -113,7 +123,7 @@
             <li data-filter=".filter-web">option3</li>
           </ul>
         </div>
-      </div>
+      </div> -->
 
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
@@ -127,7 +137,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Anchors</a></h4>
-              <p>Anchors</p>
             </div>
           </div>
         </div>
@@ -142,7 +151,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Bolts</a></h4>
-              <p>Bolts</p>
             </div>
           </div>
         </div>
@@ -157,7 +165,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Socket & Set Screws</a></h4>
-              <p>Socket & Set Screws</p>
             </div>
           </div>
         </div>
@@ -172,7 +179,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Hook & Eye Bolts</a></h4>
-              <p>Hook & Eye Bolts</p>
             </div>
           </div>
         </div>
@@ -187,7 +193,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Pins</a></h4>
-              <p>Pins</p>
             </div>
           </div>
         </div>
@@ -202,7 +207,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Rivets</a></h4>
-              <p>Rivets</p>
             </div>
           </div>
         </div>
@@ -217,7 +221,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Screws</a></h4>
-              <p>Screws</p>
             </div>
           </div>
         </div>
@@ -232,7 +235,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Studs</a></h4>
-              <p>Studs</p>
             </div>
           </div>
         </div>
@@ -247,7 +249,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Self-Drilling Screws</a></h4>
-              <p>Self-Drilling Screws</p>
             </div>
           </div>
         </div>
@@ -262,7 +263,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Self-Tapping Screws</a></h4>
-              <p>Self-Tapping Screws</p>
             </div>
           </div>
         </div>
@@ -277,7 +277,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Quard Steel Plates</a></h4>
-              <p>Quard Steel Plates</p>
             </div>
           </div>
         </div>
@@ -292,7 +291,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Nails</a></h4>
-              <p>Nails</p>
             </div>
           </div>
         </div>
@@ -307,7 +305,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Nuts</a></h4>
-              <p>Nuts</p>
             </div>
           </div>
         </div>
@@ -322,7 +319,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Threaded Rods</a></h4>
-              <p>Threaded Rods</p>
             </div>
           </div>
         </div>
@@ -337,7 +333,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Wall Plugs</a></h4>
-              <p>Wall Plugs</p>
             </div>
           </div>
         </div>
@@ -352,7 +347,6 @@
 
             <div class="portfolio-info">
               <h4><a href="#">Washers</a></h4>
-              <p>Washers</p>
             </div>
           </div>
         </div>
