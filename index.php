@@ -99,9 +99,9 @@
           <div class="carousel-item active" style="background-image: url(assets/img/intro-carousel/1.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">We are professional</h2>
-                <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <h2 class="animate__animated animate__fadeInDown">Classic Bolts & Screws</h2>
+                <p class="animate__animated animate__fadeInUp">Providing top quality Classic Bolts & Screws to the world.</p>
+                <!-- <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
               </div>
             </div>
           </div>
@@ -109,9 +109,9 @@
           <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/2.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
-                <p class="animate__animated animate__fadeInUp">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <h2 class="animate__animated animate__fadeInDown">Extensive Range of Stainless-Steel Fasteners </h2>
+                <p class="animate__animated animate__fadeInUp">We bring good things to life.</p>
+                <!-- <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
               </div>
             </div>
           </div>
@@ -119,9 +119,9 @@
           <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/3.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
-                <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <h2 class="animate__animated animate__fadeInDown">100% Authentic Grade Materials</h2>
+                <p class="animate__animated animate__fadeInUp">All is well when you get the best.</p>
+                <!-- <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
               </div>
             </div>
           </div>
@@ -129,19 +129,9 @@
           <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/4.jpg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Nam libero tempore</h2>
-                <p class="animate__animated animate__fadeInUp">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
-              </div>
-            </div>
-          </div>
-
-          <div class="carousel-item" style="background-image: url(assets/img/intro-carousel/5.jpg)">
-            <div class="carousel-container">
-              <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Magnam aliquam quaerat</h2>
-                <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <h2 class="animate__animated animate__fadeInDown">Quick Delivery of Genuine Products</h2>
+                <p class="animate__animated animate__fadeInUp">Quality service for you.</p>
+                <!-- <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a> -->
               </div>
             </div>
           </div>
@@ -192,7 +182,7 @@
     </section> --><!-- End Featured Services Section -->
 
     <!-- ======= About Us Section ======= -->
-    <section id="about">
+    <!-- <section id="about">
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
@@ -244,48 +234,45 @@
         </div>
 
       </div>
-    </section><!-- End About Us Section -->
+    </section> --><!-- End About Us Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services">
       <div class="container" data-aos="fade-up">
 
         <header class="section-header wow fadeInUp">
-          <h3>Services</h3>
-          <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus, ad pro quaestio laboramus. Ei ubique vivendum pro. At ius nisl accusam lorenta zanos paradigno tridexa panatarel.</p>
+          <h3>About Us</h3>
+          <p>Classic Star Building Materials LLC, is your trusted partner for all your fasteners requirements. Located in Deira Dubai hardware & tools market, Classic Star is known for its quality and availability of extensive range of Stainless-Steel fasteners. We carry 100% authentic grade materials such as 304, 316, and other carbon and alloy steel fasteners.   </p>
         </header>
 
         <div class="row">
 
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+            <h4 class="title">Situated in Dubai</h4>
             <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
-            <h4 class="title"><a href="">Dolor Sitema</a></h4>
+            <h4 class="title">Over 10,000 types of Fasteners</h4>
             <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+            <h4 class="title">Immediate quote</h4>
             <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+          </div>
+          <div class="col-lg-2 col-md-0 box" data-aos="fade-up" data-aos-delay="200">
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
+            <h4 class="title">Quick delivery</h4>
             <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
-            <h4 class="title"><a href="">Nemo Enim</a></h4>
+            <h4 class="title">Genuine products</h4>
             <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-          </div>
-          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon"><i class="ion-ios-people-outline"></i></div>
-            <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
           </div>
 
         </div>
@@ -296,14 +283,14 @@
     <!-- ======= Call To Action Section ======= -->
     <section id="call-to-action">
       <div class="container text-center" data-aos="zoom-in">
-        <h3>Call To Action</h3>
-        <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <a class="cta-btn" href="#">Call To Action</a>
+        <h3>For further information or inquiry</h3>
+        <p> Please contact us today.</p>
+        <a class="cta-btn" href="contact.php">Contact us us</a>
       </div>
     </section><!-- End Call To Action Section -->
 
     <!-- ======= Skills Section ======= -->
-    <section id="skills">
+    <!-- <section id="skills">
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
@@ -340,10 +327,10 @@
         </div>
 
       </div>
-    </section><!-- End Skills Section -->
+    </section> --><!-- End Skills Section -->
 
     <!-- ======= Facts Section ======= -->
-    <section id="facts">
+    <!-- <section id="facts">
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
@@ -380,7 +367,7 @@
         </div>
 
       </div>
-    </section><!-- End Facts Section -->
+    </section> --><!-- End Facts Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="section-bg">
@@ -566,7 +553,7 @@
     </section><!-- End Our Clients Section -->
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="section-bg">
+    <!-- <section id="testimonials" class="section-bg">
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
@@ -633,10 +620,10 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section> --><!-- End Testimonials Section -->
 
     <!-- ======= Team Section ======= -->
-    <section id="team">
+    <!-- <section id="team">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h3>Team</h3>
@@ -720,7 +707,7 @@
         </div>
 
       </div>
-    </section><!-- End Team Section -->
+    </section> --><!-- End Team Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="section-bg">
@@ -728,7 +715,7 @@
 
         <div class="section-header">
           <h3>Contact Us</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <p>Please get in touch with us and we will we happy to help you</p>
         </div>
 
         <div class="row contact-info">
