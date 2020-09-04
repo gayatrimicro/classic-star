@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Contact Us</title>
+  <title>Product</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="assets/img/favicon.ico" rel="icon">
@@ -22,110 +22,38 @@
   <!-- Template Main CSS File -->
 
   <link href="assets/css/style.css" rel="stylesheet">
-
-
-  <style type="text/css">
-    .row{
-      margin: 0px !important;
-    }
-    .inner_part{
-      padding: 0px 25px;
-    }
-    .inner_part h4{
-      margin-bottom: 7px;
-    }
-    .Small_label{
-      font-size: 13px;
+<style type="text/css">
+  .About_page{
+    padding: 70px 0px;
+  }
+  .inner_about_part h3{
         font-weight: 600;
-        margin-bottom: 25px;
-        display: block;
-        text-transform: uppercase;
-    }
-    .inner_part p{
-      margin-bottom: 0px;
-        font-size: 16px;
-        line-height: 35px;
-    }
-    .inner_part a{
-      text-decoration: none;
-    }
-    .inner_contact{
-      margin-top: 35px;
-    }
-    .inner_contact h5{
-        margin-top: 35px;
-        font-size: 18px;
-        letter-spacing: 1px;
-    }
-    .Back_lft{
-      background-color: #333333;
-      color: #fff;
-    }
-    .Back_lft a{
-      color: #fff;
-    }
-    .Form_part{
-      padding: 70px 0px;
-    }
-    .Clr_lbl{
-      color: #0072bb;
-      margin-bottom: 15px;
-    }
-    .inner_part h3{
-        font-size: 38px;
-        font-weight: 700;
-        margin-bottom: 5px;
-        color: #000;
-    }
-    #form_contact{
-      margin-top: 20px;
-    }
-    #form_contact input{
-      border-radius: 0px;
-      height: 43px;
-    }
-    #form_contact label{
-      font-size: 14px;
-    }
-    #form_contact .form-group{
-      margin-bottom: 15px;
-    }
-    #form_contact label span{
-      display: inline-block;
-      margin-left: 5px;
-      color: red;
-      font-size: 14px;
-      font-weight: 600;
-    }
-    #form_contact textarea{
-      border-radius: 0px;
-    }
-    .Btn_send{
-      margin-top: 25px;
-      border: none;
-      background-color: #0072bb;
-      color: #fff;
-      outline: none;
-      padding: 12px 25px;
-      font-size: 16px;
-      letter-spacing: 1px;
-      text-transform: uppercase;
-    }
-    .heigt{
-      padding: 40px 50px;
-    }
-    .inner_time{
-      margin-top: 35px;
-      margin-bottom: 35px;
-    }
-    .inner_part h5 i{
-      margin-left: 10px;
-    }
-    .inner_part h5 a:hover{
-      color: #0072bb;
-    }
-  </style>
-  <link href="assets/css/media.css" rel="stylesheet">
+    color: #000;
+    text-transform: capitalize;
+    font-size: 28px;
+    position: relative;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  .inner_about_part p{
+    font-size: 18px;
+    line-height: 34px;
+  }
+  .inner_about_part h3::after{
+    position: absolute;
+    content: "";
+    width: 100px;
+    height: 5px;
+    background-color: #0272bb;
+    bottom: -21px;
+    left: 0;
+  }
+  .inner_about_part{
+    margin-bottom: 70px;
+  }
+</style>
+<link href="assets/css/media.css" rel="stylesheet">
+  
 </head>
 
 <body>
@@ -146,7 +74,7 @@
           <nav class="nav-menu d-none d-lg-block">
             <ul>
               <li><a href="index.html">Home</a></li>
-              <li><a href="#about">About Us</a></li>
+              <li><a href="#about" class="active">About Us</a></li>
               <li><a href="#services">Products</a></li>
               <!-- <li><a href="#portfolio">Portfolio</a></li> -->
               <!-- <li><a href="#team">Team</a></li> -->
@@ -170,7 +98,7 @@
                   <li><a href="#">Washers</a></li>
                 </ul>
               </li> -->
-              <li class="active"><a href="#contact">Contact Us</a></li>
+              <li><a href="#contact">Contact Us</a></li>
 
             </ul>
           </nav><!-- .nav-menu -->
@@ -187,81 +115,78 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Contact Us</h2>
+          <h2>About us</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Contact Us</li>
+            <li>About us</li>
           </ol>
         </div>
 
       </div>
     </section><!-- End Breadcrumbs Section -->
-
-    <section class="Banner_Site">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d601.7983518241996!2d55.30422368864629!3d25.269657218121825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDE2JzExLjEiTiA1NcKwMTgnMTUuNyJF!5e0!3m2!1sen!2sin!4v1599204968989!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" id="ifr"></iframe>
-  </section>
-  <section class="Form_part">
-    <div class="container">
-      <div class="row">       
-        <div class="col-sm-6 pad360">
-          <div class="inner_part">
-            <span class="Small_label Clr_lbl">CONTACT</span>
-            <h3>Have a question?</h3>
-            <p>Please get in touch with us and we will we happy to help you</p>
-            <form id="form_contact">
-              <div class="form-group">
-                <label for="">Your Name<span>*</span></label>
-                  <input type="text" class="form-control" id="" placeholder="" name="">
-              </div>
-              <div class="form-group">
-                <label for="">Your Email<span>*</span></label>
-                  <input type="text" class="form-control" id="" placeholder="" name="">
-              </div>
-              <div class="form-group">
-                <label for="">Phone No.<span>*</span></label>
-                  <input type="text" class="form-control" id="" placeholder="" name="">
-              </div>
-              <div class="form-group">
-                <label for="">Subject<span>*</span></label>
-                  <input type="text" class="form-control" id="" placeholder="" name="">
-              </div>
-              <div class="form-group">
-                <label for="">Your Message<span>*</span></label>
-                  <textarea id="" name="" rows="5" class="form-control"></textarea>
-              </div>
-              <button type="submit" class="Btn_send">Submit</button>
-            </form>
-          </div>
-        </div>
-        <div class="col-sm-6 pad360">
-          <div class="inner_part Back_lft heigt">
-            <h4>Location</h4>
-            <span class="Small_label">Classic Star Building Materials LLC</span>
-            <p>Shop No. 06, Waqf building</p>
-            <p>Behind Madina supermarket</p>
-            <p>Naif area, Deira</p>
-            <p>Dubai, United Arab Emirates</p>
-
-            <div class="inner_contact">
-              <p><b>Phone : </b> <a href="tel:+971 4 330 3352">+971 4 330 3352</a></p>
-              <p><b>WhatsApp Chat No : </b> <a href="tel:+971 50 634 9042">+971 50 634 9042</a></p>
-              <p><b>Fax : </b> +971 4 296 6383</p>
-              <p><b>Email : </b> <a href="mailto:sales@clmet.com">sales@clmet.com</a> / <a href="mailto:info@clmet.com">info@clmet.com</a></p>
+    <section class="About_page">
+      <div class="container">
+        <div class="inner_about_part">
+          <div class="row">
+            <div class="col-sm-6">
+              <h3>Situated in Dubai -</h3>
+              <p>Dubai is the business hub of the Western Asia and one of the world's fastest growing economies in the world. This helps us produce cutting-edge, high quality industrial fasteners that can e shipped internationally.</p>
             </div>
-            <div class="inner_time">
-              <p><b>Store Timings :</b></p>
-              <p>Saturday – Thursday</p>
-              <p>8:00am – 1:00pm</p>
-              <p>4:00pm – 8:00pm</p>
-              <p>Closed on Fridays</p>            
+            <div class="col-sm-6">
+              <div class="image_about"><img src="https://i.ytimg.com/vi/v43zrGb-hUs/maxresdefault.jpg" class="mx-auto d-block" style="width:100%"></div>
             </div>
-            <h5><a href="https://maps.google.com/maps?q=25.269756317138672%2C55.30437088012695&z=17&hl=en" target="_blank">GET DIRECTIONS <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a></h5>
           </div>
-        </div>
       </div>
-    </div>
+      <div class="inner_about_part MarB0xs">
+          <div class="row">
+            <div class="col-sm-6">
+              <div class="image_about"><img src="https://i.ytimg.com/vi/v43zrGb-hUs/maxresdefault.jpg" class="mx-auto d-block" style="width:100%"></div>
+            </div>
+            <div class="col-sm-6">
+              <h3>Over 10,000 types of fasteners -</h3>
+              <p>Our products consist of thousands of different types of industrial fasteners which include - Anchor bolts, Stud bolts. Threaded rods, U Bolts, Dowel bars and many more. If you want custom fasteners as per your needs, we manufacture the one you need.</p>
+            </div>            
+          </div>
+      </div>
+      <div class="inner_about_part">
+          <div class="row">
+            <div class="col-sm-6">
+              <h3>Immediate Quote -</h3>
+              <p>When you provide your requirements to us and order some of the best industrial fasteners Dubai has to offer, you'll get an immediate quote with 100% transparency, ending in a hassle-free  transaction process.</p>
+            </div>
+            <div class="col-sm-6">
+              <div class="image_about"><img src="https://i.ytimg.com/vi/v43zrGb-hUs/maxresdefault.jpg" class="mx-auto d-block" style="width:100%"></div>
+            </div>
+          </div>
+      </div>
+      <div class="inner_about_part MarB0xs">
+          <div class="row">
+            <div class="col-sm-6">
+              <div class="image_about"><img src="https://i.ytimg.com/vi/v43zrGb-hUs/maxresdefault.jpg" class="mx-auto d-block" style="width:100%"></div>
+            </div>
+            <div class="col-sm-6">
+              <h3>Quick Delivery -</h3>
+              <p>When we promise quick delivery, we make sure that it happens - nationally as well internationally.</p>
+            </div>            
+          </div>
+      </div>
+      <div class="inner_about_part">
+          <div class="row">
+            <div class="col-sm-6">
+              <h3>Genuine Products -</h3>
+              <p>Classic Star Building Materials LLC.  is a name associated with genuine products which are high quality, durable, and in accordance with industry standards.</p>
+            </div>
+            <div class="col-sm-6">
+              <div class="image_about"><img src="https://i.ytimg.com/vi/v43zrGb-hUs/maxresdefault.jpg" class="mx-auto d-block" style="width:100%"></div>
+            </div>
+          </div>
+      </div>
+      </div>
+      
+    </section>
+
     
-  </section>
+    
 
   </main><!-- End #main -->
 
