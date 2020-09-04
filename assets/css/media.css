@@ -1,0 +1,40 @@
+@media(min-width: 320px) and (max-width: 767px){
+  .Form_part {
+    padding: 45px 0px;
+}
+.inner_part {
+    padding: 0px 0px;
+}
+.inner_part h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.inner_part p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.heigt {
+    padding: 30px 15px;
+    margin-top: 45px;
+}
+#ifr{
+	height: 200px;
+}
+.breadcrumbs {
+    margin-top: 110px;
+}
+.breadcrumbs h2 {
+    font-size: 21px;
+    margin-bottom: 12px;
+}
+.inner_part h5{
+	font-size: 18px;
+}
+.padTOxs{
+	padding-top: 35px !important;
+}
+.pad360{
+	padding: 0px;
+}
+
+}

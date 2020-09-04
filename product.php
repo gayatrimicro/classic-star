@@ -31,7 +31,7 @@
     margin-bottom: 0;
 }
 </style>
-
+<link href="assets/css/media.css" rel="stylesheet">
   
 </head>
 
@@ -106,7 +106,7 @@
 
     
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="section-bg">
+    <section id="portfolio" class="section-bg padTOxs">
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
