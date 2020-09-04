@@ -250,29 +250,30 @@
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="ion-ios-analytics-outline"></i></div>
             <h4 class="title">Situated in Dubai</h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <p class="description">Dubai is the business hub of the Western Asia and one of the world's fastest growing economies in the world. </p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="ion-ios-bookmarks-outline"></i></div>
             <h4 class="title">Over 10,000 types of Fasteners</h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-          </div>
-          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
-            <h4 class="title">Immediate quote</h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-          </div>
-          <div class="col-lg-2 col-md-0 box" data-aos="fade-up" data-aos-delay="200">
+            <p class="description">Our products consist of thousands of different types of industrial fasteners which include - Anchor bolts, Stud bolts.</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="ion-ios-speedometer-outline"></i></div>
             <h4 class="title">Quick delivery</h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <p class="description">When we promise quick delivery, we make sure that it happens - nationally as well internationally.</p>
           </div>
-          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-2 col-md-0 box" data-aos="fade-up" data-aos-delay="200" style="margin-top: 2rem;">
+          </div>
+          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300" style="margin-top: 2rem;">
+            <div class="icon"><i class="ion-ios-paper-outline"></i></div>
+            <h4 class="title">Immediate quote</h4>
+            <p class="description">When you provide your requirements to us, you'll get an immediate quote with 100% transparency, ending in a hassle-free  transaction process.</p>
+          </div>
+          
+          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300" style="margin-top: 2rem;">
             <div class="icon"><i class="ion-ios-barcode-outline"></i></div>
             <h4 class="title">Genuine products</h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            <p class="description">Classic Star Building Materials LLC. is a name associated with genuine products which are high quality, durable, and in accordance with industry standards.</p>
           </div>
 
         </div>
@@ -374,10 +375,11 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h3 class="section-title">Our Portfolio</h3>
+          <h3 class="section-title">Our Products</h3>
         </header>
+        <br><br>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="100"">
+        <!-- <div class="row" data-aos="fade-up" data-aos-delay="100"">
       <div class=" col-lg-12">
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
@@ -386,21 +388,20 @@
             <li data-filter=".filter-web">Web</li>
           </ul>
         </div>
-      </div>
+      </div> -->
 
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="ion ion-eye"></i></a>
+              <img src="assets/img/products/anchor.jpg" class="img-fluid" alt="">
+              <!-- <a href="assets/img/products/anchor.jpg" data-lightbox="portfolio" data-title="Anchors" class="link-preview"><i class="ion ion-eye"></i></a> -->
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="#">App 1</a></h4>
-              <p>App</p>
+              <h4><a href="#">Anchors</a></h4>
             </div>
           </div>
         </div>
@@ -408,14 +409,13 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 3"><i class="ion ion-eye"></i></a>
+              <img src="assets/img/products/bolt.jpg" class="img-fluid" alt="">
+              <!-- <a href="assets/img/portfolio/web3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Bolts"><i class="ion ion-eye"></i></a> -->
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="#">Web 3</a></h4>
-              <p>Web</p>
+              <h4><a href="#">Bolts</a></h4>
             </div>
           </div>
         </div>
@@ -423,107 +423,19 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/app2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 2"><i class="ion ion-eye"></i></a>
+              <img src="assets/img/products/socket-screw.jpg" class="img-fluid" alt="">
+              <!-- <a href="assets/img/portfolio/app2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Socket & Set Screws"><i class="ion ion-eye"></i></a> -->
               <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="#">App 2</a></h4>
-              <p>App</p>
+              <h4><a href="#">Socket & Set Screws</a></h4>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <figure>
-              <img src="assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/card2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 2"><i class="ion ion-eye"></i></a>
-              <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-            </figure>
+      
 
-            <div class="portfolio-info">
-              <h4><a href="#">Card 2</a></h4>
-              <p>Card</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <figure>
-              <img src="assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 2"><i class="ion ion-eye"></i></a>
-              <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-            </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">Web 2</a></h4>
-              <p>Web</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <figure>
-              <img src="assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/app3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="App 3"><i class="ion ion-eye"></i></a>
-              <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-            </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">App 3</a></h4>
-              <p>App</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <figure>
-              <img src="assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/card1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 1"><i class="ion ion-eye"></i></a>
-              <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-            </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">Card 1</a></h4>
-              <p>Card</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <figure>
-              <img src="assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/card3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Card 3"><i class="ion ion-eye"></i></a>
-              <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-            </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">Card 3</a></h4>
-              <p>Card</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <figure>
-              <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets/img/portfolio/web1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Web 1"><i class="ion ion-eye"></i></a>
-              <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-            </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">Web 1</a></h4>
-              <p>Web</p>
-            </div>
-          </div>
-        </div>
 
       </div>
 
@@ -740,7 +652,8 @@
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
-              <p><a href="mailto:sales@clmet.com ">sales@clmet.com </a></p>
+              <p><a href="mailto:sales@clmet.com">sales@clmet.com</a> <br>
+                <a href="mailto:info@clmet.com">info@clmet.com</a></p>
             </div>
           </div>
 
