@@ -27,9 +27,6 @@
     .row{
       margin: 0px !important;
     }
-    .Banner_Site{
-      background-color: skyblue;
-    }
     .inner_part{
       padding: 0px 25px;
     }
@@ -45,7 +42,7 @@
     }
     .inner_part p{
       margin-bottom: 0px;
-        font-size: 17px;
+        font-size: 16px;
         line-height: 35px;
     }
     .inner_part a{
@@ -194,7 +191,8 @@
     </section><!-- End Breadcrumbs Section -->
 
     <section class="Banner_Site">
-    <div id="googleMap" style="width:100%;height:400px;"></div>
+    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3608.024647909002!2d55.30218221501108!3d25.2697562838625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDE2JzExLjEiTiA1NcKwMTgnMTUuNyJF!5e0!3m2!1sen!2sin!4v1599204584529!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> -->
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d601.7983518241996!2d55.30422368864629!3d25.269657218121825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDE2JzExLjEiTiA1NcKwMTgnMTUuNyJF!5e0!3m2!1sen!2sin!4v1599204968989!5m2!1sen!2sin" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
   </section>
   <section class="Form_part">
     <div class="container">
