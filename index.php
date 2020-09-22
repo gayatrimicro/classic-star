@@ -5,13 +5,14 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Classic Star</title>
+  <title>Home | Classic Star</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.ico" rel="icon">
 
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
 
@@ -24,7 +25,7 @@
   <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
   <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&display=swap" rel="stylesheet">
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
@@ -186,19 +187,25 @@
             <p class="description">Classic Star Building Materials LLC. is a name associated with genuine products which are high quality, durable, and in accordance with industry standards.</p>
           </div>
 
+          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300" style="margin-top: auto;
+    margin-bottom: auto;">
+            <div class="icon"><i class="ion-social-usd-outline"></i></div>
+            <h4 class="title" style="font-family: 'Cinzel', serif;font-size: 28px;">Unbeatable Price</h4>
+          </div>
+
         </div>
 
       </div>
     </section><!-- End Services Section -->
 
     <!-- ======= Call To Action Section ======= -->
-    <section id="call-to-action">
+    <!-- <section id="call-to-action">
       <div class="container text-center" data-aos="zoom-in">
         <h3>For further information or inquiry</h3>
         <p> Please contact us today.</p>
         <a class="cta-btn" href="#">Contact us us</a>
       </div>
-    </section><!-- End Call To Action Section -->
+    </section> --><!-- End Call To Action Section -->
 
     
 
@@ -279,30 +286,46 @@
       </div>
     </section><!-- End Portfolio Section -->
 
+
+    
+
+
+
+
     <!-- ======= Our Clients Section ======= -->
     <section id="clients">
       <div class="container" data-aos="zoom-in">
 
         <header class="section-header">
-          <h3>Our Clients</h3>
+          <h3>Our Brands</h3>
         </header>
 
         <div class="owl-carousel clients-carousel">
           <!-- <img src="assets/img/clients/client-1.png" alt="">
-          <img src="assets/img/clients/client-2.png" alt="">
-          <img src="assets/img/clients/client-3.png" alt=""> -->
-          <img src="assets/img/clients/client-4.png" alt="">
-          <img src="assets/img/clients/client-5.png" alt="">
-          <img src="assets/img/clients/client-6.png" alt="">
-          <img src="assets/img/clients/client-7.png" alt="">
-          <img src="assets/img/clients/client-8.png" alt="">
+          <img src="assets/img/clients/client-2.png" alt=""> -->
+          
+          <!-- <img src="assets/img/clients/Classic-Metalic-Logo.jpg" alt=""> -->
+          <img src="assets/img/clients/NLMK-Logo.jpg" alt="">
+          <img src="assets/img/clients/Aztec-Logo.jpg" alt="">
+          <!-- <img src="assets/img/clients/Classic-Star-Logo.jpg" alt=""> -->
+          <img src="assets/img/clients/CM-Logo.jpg" alt="">
+          <img src="assets/img/clients/Bartolucci-Logo.jpg" alt="">
         </div>
 
       </div>
     </section><!-- End Our Clients Section -->
 
     
+<!-- ======= Call To Action Section ======= -->
+    <section id="call-to-action">
+      <div class="container text-center" data-aos="zoom-in">
+        <h3>For further information or inquiry</h3>
+        <p> Please contact us today.</p>
+        <a class="cta-btn" href="#">Contact us us</a>
+      </div>
+    </section><!-- End Call To Action Section -->
 
+    
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="section-bg">
       <div class="container" data-aos="fade-up">
@@ -324,7 +347,7 @@
 
           <div class="col-md-4">
             <div class="contact-phone">
-              <i class="ion-ios-telephone-outline"></i>
+              <i class="ion-social-whatsapp-outline"></i>
               <h3>Phone Number</h3>
               <p><a href="tel:+971 4 330 3352">+971 4 330 3352</a></p>
             </div>
@@ -340,35 +363,75 @@
           </div>
 
         </div>
-
+<style type="text/css">
+  #modal-success{
+    display: none;
+    text-align: center;
+    color: #040404;
+    text-transform: uppercase;
+        font-size: 16px;
+    font-weight: 600;   
+}
+</style>
         <div class="form">
-          <form action="#" method="post" role="form" class="php-email-form">
+          <form role="form" class="php-email-form" id="home-form">
             <div class="form-row">
               <div class="form-group col-md-6">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                <div class="validate"></div>
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" title="Please enter at least 4 chars" required />
+                
               </div>
               <div class="form-group col-md-6">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                <div class="validate"></div>
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" title="Please enter a valid email" required />
+                
               </div>
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-              <div class="validate"></div>
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" title="Please enter at least 8 chars of subject" required />
+              
             </div>
             <div class="form-group">
-              <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-              <div class="validate"></div>
+              <textarea class="form-control" name="message" id="message" rows="5" title="Please write something for us" placeholder="Message" required ></textarea>
+              
             </div>
-            <div class="mb-3">
-              <div class="loading">Loading</div>
-              <div class="error-message"></div>
-              <div class="sent-message">Your message has been sent. Thank you!</div>
+            <div class="form-group">
+              <label id="modal-success">Thank you for your enquiry.</label>
             </div>
-            <div class="text-center"><button type="submit">Send Message</button></div>
+            <div class="text-center"><button type="submit" id="submit-home-form">Send Message</button></div>
           </form>
         </div>
+
+
+<script>
+$(document).ready(function() { 
+    $('#home-form').submit(function(event) {
+      event.preventDefault();
+      var formdata = $('#home-form').serialize();
+      // alert(formdata);
+          if ($('#name').val() != "" && $('#email').val() != "" && $('#subject').val() != "" && $('#message').val() != "" ) {
+            
+             $.ajax({
+                              url:'contact-form.php',
+                              type:'POST',
+                              data:formdata,
+                              success:function(result){
+                                
+                                  $("#modal-success").css("display", "block");
+                                  // alert("Your enquiry has been sent successfully");
+                                  $("#name, #email, #subject, #message").val("");
+                              } 
+                    });
+
+        
+    }
+             else{
+              alert("All fields are mandatory");
+                  }
+
+});
+
+
+    });
+</script>
 
       </div>
     </section><!-- End Contact Section -->
@@ -429,10 +492,10 @@
       <div class="copyright">
         &copy; Copyright <strong>Classic Star Building Materials LLC</strong>. All Rights Reserved
       </div>
-      <div class="credits">
+      <!-- <div class="credits">
        
         Designed by <a href="https://ibridgedigital.com/">iBridge Digital</a>
-      </div>
+      </div> -->
     </div>
   </footer><!-- End Footer -->
 
@@ -440,7 +503,6 @@
 
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>

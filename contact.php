@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Contact Us</title>
+  <title>Contact Us | Classic Star</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="assets/img/favicon.ico" rel="icon">
@@ -271,23 +271,13 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-info">
-            <!-- <img src="assets/img/classic-star.png" style="width:100%;"> -->
-            <!-- <h3>Classic Star Building Materials LLC</h3> -->
+          <!-- <div class="col-lg-3 col-md-6 footer-info">
             <p>Classic Star Building Materials LLC, is your trusted partner for all your fasteners requirements. Located in Deira Dubai hardware & tools market, Classic Star is known for its quality and availability of extensive range of Stainless-Steel fasteners. We carry 100% authentic grade materials such as 304, 316, and other carbon and alloy steel fasteners.</p>
-          </div>
+          </div> -->
 
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Products</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Contact us</a></li>
-            </ul>
-          </div>
+          
 
-          <div class="col-lg-3 col-md-6 footer-contact">
+          <div class="col-lg-6 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
               Shop No. 06, Waqf building,<br> 
@@ -300,22 +290,26 @@
             </p>
 
             <div class="social-links">
-              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+              <!-- <a href="#" class="twitter"><i class="fa fa-twitter"></i></a> -->
               <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <!-- <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a> -->
               <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
             </div>
 
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
+          <div class="col-lg-6 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Products</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#">Contact us</a></li>
+            </ul>
           </div>
+
+         
 
         </div>
       </div>
