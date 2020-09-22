@@ -458,7 +458,7 @@ $(document).ready(function() {
               Naif area, Deira,<br> 
               Dubai, United Arab Emirates,<br>
               <!-- <strong>Phone:</strong> +971 4 330 3352<br> -->
-              <strong>Whatsapp:</strong><a href="https://wa.me/97143303352">+971 4 330 3352</a><br>
+              <strong>Whatsapp:</strong>&nbsp; <a href="https://wa.me/97143303352">+971 4 330 3352</a><br>
               <strong>Fax:</strong> +971 4 296 6383<br>
               <!-- <strong>Email:</strong> info@example.com<br> -->
             </p>
