@@ -348,8 +348,8 @@
           <div class="col-md-4">
             <div class="contact-phone">
               <i class="ion-social-whatsapp-outline"></i>
-              <h3>Phone Number</h3>
-              <p><a href="tel:+971 4 330 3352">+971 4 330 3352</a></p>
+              <h3>Whatsapp Number</h3>
+              <p><a href="https://wa.me/97143303352">+971 4 330 3352</a></p>
             </div>
           </div>
 
@@ -457,7 +457,8 @@ $(document).ready(function() {
               Behind Madina supermarket,<br>
               Naif area, Deira,<br> 
               Dubai, United Arab Emirates,<br>
-              <strong>Phone:</strong> +971 4 330 3352<br>
+              <!-- <strong>Phone:</strong> +971 4 330 3352<br> -->
+              <strong>Whatsapp:</strong><a href="https://wa.me/97143303352">+971 4 330 3352</a>
               <strong>Fax:</strong> +971 4 296 6383<br>
               <!-- <strong>Email:</strong> info@example.com<br> -->
             </p>
